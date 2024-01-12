@@ -4,6 +4,6 @@ Convert selected image files to TIF 300 dpi and save then on the desktop.
 
 # Setup
 In the workflow configuration choose:
-• the folder where you want to keep your converted file;
-• the keyword you want to use to start the conversion;
-• the default resolution.
+- the folder where you want to keep your converted file;
+- the keyword you want to use to start the conversion;
+- the default resolution.
